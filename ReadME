@@ -1,0 +1,9 @@
+//===========Especialización en Engenieria de software - Informatica I Grupo2 ==================>
+
+Alumno: Andres Arturo Vergara
+
+Aplicacion: Chat en tiempo real implementando web sockets con el fin de establer comunicación entre cliente y servidor.
+
+Se deben ejecutar cliente y servidor al mismo tiempo para dar inicio al chat. El chat se cerrará automaicamente cuando el cliente escriba la palabra "salir"
+
+//=========== Especialización en Engenieria de software - Informatica I Grupo2 ==================<
